@@ -1,0 +1,9 @@
+Building ChiCoin
+
+See doc/readme-qt.rst for instructions on building chicoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ChiCoin.
+
+See doc/build-*.txt for instructions on building chicoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of ChiCoin.
